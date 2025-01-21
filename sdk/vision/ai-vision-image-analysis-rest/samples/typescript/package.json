@@ -15,6 +15,6 @@
     "@azure-rest/ai-vision-image-analysis": "next",
     "cross-env": "^7.0.3",
     "dotenv": "^16.3.1",
-    "typescript": "^4.1.2"
+    "typescript": "^5.7.2"
   }
 }
