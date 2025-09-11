@@ -60,7 +60,7 @@
     "@types/express-serve-static-core": "^4.17.19",
     "@types/jsonwebtoken": "^9.0.0",
     "@types/node": "^18.0.0",
-    "@vitest/browser": "^1.6.0",
+    "@vitest/browser": "^2.1.4",
     "@vitest/coverage-istanbul": "^1.6.0",
     "dotenv": "^16.0.0",
     "eslint": "^8.0.0",
